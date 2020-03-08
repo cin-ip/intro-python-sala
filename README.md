@@ -1,2 +1,2 @@
-# intro-python-sala
+# IP-Python-sala
 Introdução à Programação com Python - Notebooks para Sala de Aula
